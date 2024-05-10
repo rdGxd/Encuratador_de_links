@@ -7,13 +7,16 @@
 - Typescript
 - React
 - Tailwind
+- Validator
+- Axios
 
 ### Back-end
 - Java
 - Spring Boot
-- H2 Data base
+- H2 Database
 - JWT
 - Maven
+- Lombok
 
 ## Funcionalidades adicionais
 
